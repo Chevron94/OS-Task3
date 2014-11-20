@@ -1,0 +1,7 @@
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\bin\Debug\Task3.exe
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\bin\Debug\Task3.pdb
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\obj\x86\Debug\Task3.Form1.resources
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\obj\x86\Debug\Task3.Properties.Resources.resources
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\obj\x86\Debug\Task3.csproj.GenerateResource.Cache
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\obj\x86\Debug\Task3.exe
+D:\Labs\3 курс\1 семестр\OS\Task3\Task3\obj\x86\Debug\Task3.pdb
